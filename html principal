@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aprendendo</title>
+    
+</head>
+<link rel="stylesheet" href="main.css">
+<body>
+    <head>
+    <header>
+        <div class="container">
+        <h1><b>Olá - Bom Treino!</b></h1>
+        <h3>ATENSIOSAMENTE EQUIPE DE TREINAMENTO.</h3>
+    </div>
+    </header>
+    <div class="conteiner">
+        <hr class="centered">
+    <h2>Escolha o treino desejado:</h2>
+    <h3><i><a href="./treinopeitoindex.html" type="link" >Treino de Peito</a></i></h3>
+    <h3><i><a href="./treinocostasindex.html" type="link" >Treino de Costas</a></i></h3>
+    <h3><i><a href="./treinopernaindex.html" type="link" >Treino de Pernas</a></i></h3>
+    <hr>
+    </div>
+</section>
+<section id="contact">
+    <div class="container">
+        <h2>Contato</h2>
+        <div class="contact-methods">
+         <div>
+           <h3>Fale conosco</h3>
+           <form>
+            <input type="text" placeholder="Seu nome" required />
+            <input type="email" placeholder="Seu e-mail" required />
+            <input type="tel" placeholder="Seu telefone (opcional)" />
+            <textarea placeholder="Sua mensagem" required></textarea>
+            <button type="submit">Enviar</button>
+           </form> 
+           </div>
+           <div>
+            <h3>Venha até nós</h3>
+            <p>
+                Rua Antônio Jorge n° 354, Vila HTML - São Paulo - SP
+            </p>
+           </div>
+     </div>
+    </div>
+</section>
+    &copy; Desenvolvido por Kauan Tavares
+</head>
+</body>
+</html>
