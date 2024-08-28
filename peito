@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Treino de Peito</title>
+</head>
+<body>
+   <header>
+     <h1>Boa escolha!</h1>
+     <h3>SEGUE A LISTA DOS EXERCÍCIOS ABAIXO:</h3>
+   </header>
+   <hr>
+   <ul>
+    <li><h3>Mobilidade</h3></li>
+    <li><h3>Supino Inclinado com Halter</h3></li>
+    <li><h3>Supino Deitado Reto com Barra</h3></li>
+    <li><h3>Supino Reto</h3></li>
+    <li><h3>Cruxifixo</h3></li>
+    <li><h3>Ombro Polia</h3></li>
+    <li><h3>Tríceps Polia</h3></li>
+    <li><h3>Ombro Máquina</h3></li>
+   </ul>
+   <hr>
+   <footer>
+    &copy; 2024 - Desenvolvido por Kauan Tavares
+   </footer>
+   <h3><i><a href="./aprendendoindex.html" type="link" >Voltar para tela inicial</a></i></h3>
+</body>
+</html>
