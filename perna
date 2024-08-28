@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Treino de Pernas</title>
+</head>
+<body>
+   <header>
+     <h1>Boa escolha!</h1>
+     <h3>SEGUE A LISTA DOS EXERCÍCIOS ABAIXO:</h3>
+   </header>
+   <hr>
+   <ul>
+    <li><h3>Mobilidade</h3></li>
+    <li><h3>Abdômen</h3></li>
+    <li><h3>Panturrilha Barra</h3></li>
+    <li><h3>Panturrilha Máquina</h3></li>
+    <li><h3>Leg Press 45</h3></li>
+    <li><h3>Cadeira Extensora</h3></li>
+    <li><h3>Mesa Flexora</h3></li>
+   </ul>
+   <hr>
+   <footer>
+    &copy; 2024 - Desenvolvido por Kauan Tavares
+   </footer>
+   <h3><i><a href="./aprendendoindex.html" type="link" >Voltar para tela inicial</a></i></h3>
+</body>
+</html>
